@@ -30,5 +30,3 @@ J’ai des compétences en **machine learning** et en **analyse de données**, q
 ## 🛠️ Projet actuel
 Développement d’un **outil de gestion** visant à optimiser et simplifier les processus métiers.
 
-## 🎯 Objectif
-Curieux et motivé, je cherche à progresser continuellement et à contribuer à des projets innovants.
