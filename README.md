@@ -3,6 +3,8 @@
 Passionné par la tech et l’innovation, je suis actuellement étudiant ingénieur avec un fort intérêt pour le développement logiciel et la data.
 
 ## 💻 Compétences techniques
+
+**Languages**
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
@@ -11,7 +13,7 @@ Passionné par la tech et l’innovation, je suis actuellement étudiant ingéni
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
-## 🧩 Tools & Platforms
+** 🧩 Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
 </p>
