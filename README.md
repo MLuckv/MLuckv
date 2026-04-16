@@ -16,6 +16,8 @@ Passionné par la tech et l’innovation, je suis actuellement étudiant ingéni
 **Tools & Platforms**
 <p>
   <img src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CodeIgniter-E44D26?style=flat-square&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 </p>
