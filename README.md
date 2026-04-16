@@ -11,6 +11,8 @@ Passionné par la tech et l’innovation, je suis actuellement étudiant ingéni
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Twig-3EAF7C?style=flat-square&logo=twig&logoColor=white" />
 </p>
 
 **Tools & Platforms**
